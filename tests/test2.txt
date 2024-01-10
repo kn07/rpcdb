@@ -1,0 +1,13 @@
+login 2
+add 3 5 2.15 2.25 2.01 2.05 2.1
+add 15 2 0.2 0.3
+update 35 6 3.4 63.1 50.4 60.5 24.5 63.1
+read 1
+delete 5
+update 30 2 2.0 2.5
+store
+logout
+login 2
+load
+read_all
+logout
